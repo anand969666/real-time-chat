@@ -1,4 +1,23 @@
 # Getting Started with Create React App
+COMPANY : CODTECH IT SOLUTIONS
+
+NAME : ANAND MISHRA
+
+INTERN ID : CTISAR00
+
+DOMAIN : PYTHON PROGRAMMING
+
+DURATION : 4 WEEKS
+
+MENTOR : NEELA SANTOSH
+
+
+
+
+
+
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
